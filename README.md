@@ -7,7 +7,7 @@ I made during my college years to learn Python. I use open source game engine ca
 Install PyGame with PIP
 
 ```
-pip pygame
+pip install pygame
 ```
 
 Run game with Python command
