@@ -15,3 +15,7 @@ Run game with Python command
 ```
 python Main.py
 ```
+
+### macOS Mojave users
+
+There's an issue with PyGame and the Homebrew version of Python3.7.x. I recommend if you want to run this Python file to download the latest version of Python from  [Python official site]: https://www.python.org/downloads/mac-osx/ and installing it with by running `pip3 pygame` in the terminal. To run the main file with Python 3 in Mac use this command `python3 Main.py`.
